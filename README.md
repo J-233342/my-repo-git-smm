@@ -21,7 +21,7 @@ esto es un **texto en negrita**
 
 > para escribir codigo,se utiliza las comillas invertidas. el codigo se escribe en medio de las dos comillas 
 
-"$ npm start" 
+`$ npm start`
 
 >para insertar un enlace, se usan los corchetes y los parentesis, asi :
 
